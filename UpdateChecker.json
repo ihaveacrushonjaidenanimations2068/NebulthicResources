@@ -1,0 +1,16 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/nebulithic-ascension",
+  "1.12.2": {
+    "<modversion>": "2.4.0", 
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+    ...
+  },
+  ...
+  "promos": {
+    "1.12.2-latest": "2.5.0beta3",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.12.2-recommended": "2.4.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
